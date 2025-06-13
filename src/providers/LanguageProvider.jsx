@@ -331,6 +331,25 @@ const languages = {
       readTime: 'Read time',
       author: 'Author',
       relatedTopics: 'Related Topics',
+
+      // Dashboard Menu
+      menu: 'Menu',
+      manageProfile: 'Gérer le Profil',
+      myBookings: 'Mes Réservations',
+      joinAsTeacher: 'Devenir Professeur',
+      postJob: 'Publier une Offre',
+      myPosts: 'Mes Offres',
+      myJobs: 'Mes Offres',
+      paymentHistory: 'Historique des Paiements',
+
+      // Student Profile
+      profilePhoto: 'Profile Photo',
+      updateProfile: 'Update Profile',
+      editProfile: 'Edit Profile',
+      addressInformation: 'Address Information',
+      guardianInformation: 'Guardian Information',
+      personalInformation: 'Personal Information',
+      academicInformation: 'Academic Information',
     }
   },
   es: {
@@ -930,6 +949,15 @@ const languages = {
       myJobs: 'Mes Offres',
       paymentHistory: 'Historique des Paiements',
 
+      // Student Profile
+      profilePhoto: 'Photo de Profil',
+      updateProfile: 'Mettre à Jour le Profil',
+      editProfile: 'Modifier le Profil',
+      addressInformation: 'Informations d\'Adresse',
+      guardianInformation: 'Informations du Tuteur',
+      personalInformation: 'Informations Personnelles',
+      academicInformation: 'Informations Académiques',
+
       // Find Teacher Guide
       findPerfectTeacher: 'Jwenn Pwofesè Pafè Ou',
       findTeacherDesc: 'Dekouvri edikatè ekspè ki pral gide ou nan ekselans akademik ak kwasans pèsonèl',
@@ -1318,6 +1346,15 @@ const languages = {
       myPosts: 'Piblikasyon Mwen',
       myJobs: 'Piblikasyon Mwen',
       paymentHistory: 'Peman',
+
+      // Student Profile
+      profilePhoto: 'Foto Pwofil',
+      updateProfile: 'Mete Pwofil a Ajou',
+      editProfile: 'Modifye Pwofil',
+      addressInformation: 'Enfòmasyon Adrès',
+      guardianInformation: 'Enfòmasyon Gadyen',
+      personalInformation: 'Enfòmasyon Pèsonèl',
+      academicInformation: 'Enfòmasyon Akademik',
 
       // Find Teacher Guide
       findPerfectTeacher: 'Jwenn Pwofesè Pafè Ou',
