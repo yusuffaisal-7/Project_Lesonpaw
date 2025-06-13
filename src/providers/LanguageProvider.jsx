@@ -334,13 +334,13 @@ const languages = {
 
       // Dashboard Menu
       menu: 'Menu',
-      manageProfile: 'Gérer le Profil',
-      myBookings: 'Mes Réservations',
-      joinAsTeacher: 'Devenir Professeur',
-      postJob: 'Publier une Offre',
-      myPosts: 'Mes Offres',
-      myJobs: 'Mes Offres',
-      paymentHistory: 'Historique des Paiements',
+      manageProfile: 'Manage Profile',
+      myBookings: 'My Bookings',
+      joinAsTeacher: 'Join As a Teacher',
+      postJob: 'Post a Job',
+      myPosts: 'My Posts',
+      myJobs: 'My Posted Jobs',
+      paymentHistory: 'Payment History',
 
       // Find Teacher Guide
       findPerfectTeacher: 'Encuentra Tu Profesor Perfecto',
